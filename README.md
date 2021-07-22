@@ -1,4 +1,6 @@
-The following pieces are designed using Processing.
+**The following pieces are designed using Processing.**
+<br />
+
 
 <img src="https://user-images.githubusercontent.com/59351131/126672871-54c91164-4b5c-47e4-8601-a983618f45c1.jpg" width="500" height="500">
 
